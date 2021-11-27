@@ -8,3 +8,4 @@ add merge.
 working on the dev branch.
 git push test.
 GUI test.
+gui test : merge.
