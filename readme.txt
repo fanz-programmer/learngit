@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 add merge.
 working on the dev branch.
 git push test.
+GUI test.
